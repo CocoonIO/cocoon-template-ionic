@@ -1,4 +1,4 @@
-Phaser template
+Ionic template
 ==================
 
 ## Introduction
