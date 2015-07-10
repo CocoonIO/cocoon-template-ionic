@@ -2,7 +2,7 @@
 <widget id="io.cocoon.template.ionic" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0" xmlns:cocoon="http://cocoon.io/ns/1.0">
     <name>Ionic template</name>
     <description>
-        Free and open source, Ionic offers a library of mobile-optimized HTML, CSS and JS components, gestures, and tools for building highly interactive apps. Built with Sass and optimized for AngularJS.
+        Ionic template for Cocoon.io cloud compiler based on Jeremy Wilken's app at https://github.com/ionic-in-action/ionic-demo-resort-app.
     </description>
     <author href="https://twitter.com/gnomeontherun">
         Jeremy Wilken
