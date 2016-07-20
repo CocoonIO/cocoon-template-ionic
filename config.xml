@@ -7,9 +7,6 @@
     <author href="https://twitter.com/gnomeontherun">
         Jeremy Wilken
     </author>
-    
-    <!-- Shown in the wizard -->
-    <icon src="icon.png" />
 
     <content src="index.html" />
     <access origin="*" />
